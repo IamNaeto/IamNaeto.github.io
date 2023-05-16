@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Open source contribution
 
 ## Connect with me: ##
-
+<p align="left">
 <a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 <a href="https://app.netlify.com/teams/iamnaeto/overview">
 <img src="https://cdn.iconscout.com/icon/free/png-128/netlify-3628945-3030170.png" width="45" height="45"/>
 </a>
+</p>
 
 
 <h2>Languages and Tools</h2>
